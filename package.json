@@ -14,6 +14,7 @@
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.8.4",
     "@babel/node": "^7.8.4",
+    "@babel/plugin-transform-runtime": "^7.10.1",
     "@babel/preset-env": "^7.8.4",
     "nodemon": "^2.0.2"
   },
@@ -31,7 +32,6 @@
   "bugs": {
     "url": "https://github.com/basir/amazona/issues"
   },
-  
   "engines": {
     "node": "12.4.0",
     "npm": "6.9.0"
