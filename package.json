@@ -39,9 +39,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/basir/amazona/issues"
-  },
-  "engines": {
-    "node": "12.4.0",
-    "npm": "6.9.0"
   }
 }
